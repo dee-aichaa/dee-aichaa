@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dee-aichaa
 - 👀 I’m interested in coding, reading and watching movies
-- 🌱 I’m currently learning JavaScript & reactJS
-- 💞️ I’m looking to collaborate on KeurrDeret with my colleagues
+- 🌱 I'm currently workiing the Greenstand Project at Cayorr Enterprises
 - 📫 How to reach me @dee_aichaa on instagram @isatou_demba on twitter
 
 <!---
