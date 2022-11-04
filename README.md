@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dee-aichaa
 - 👀 I’m interested in coding & reading
-- 🌱 I'm currently workiing the Greenstand Project at Cayor Enterprises
+- 🌱 I'm currently working on KeurDeret, Blood donation app.
 - 📫 How to reach me: @dee_aichaa on instagram @isatou_demba on twitter
 
 <!---
